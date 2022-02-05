@@ -16,10 +16,3 @@
 
 <br>
 <br>
-
-## Now Playing
-
-[![Spotify](https://novatorem-marcielabreu.vercel.app/api/spotify)](https://open.spotify.com/user/marciel%2Aalencar%2Ade%2Aabreu?si=2bf05a4d4c174479)
-
-----
-<br>
