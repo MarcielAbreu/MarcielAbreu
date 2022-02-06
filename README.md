@@ -3,7 +3,6 @@
 <p align="left">
     <a href="https://github.com/MarcielAbreu">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=MarcielAbreu&show_icons=true&theme=vision-friendly-dark" alt="MarcielAbreu's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcielAbreu&layout=compact&theme=vision-friendly-dark" alt="MarcielAbreu's most languages"/>
 </p>
 
 # My Skills!!! <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="120">
