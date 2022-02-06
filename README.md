@@ -1,9 +1,6 @@
 # Hi, I'm Marciel <img src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" width="30">
 
-<p align="left">
-    <a href="https://github.com/MarcielAbreu">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=MarcielAbreu&show_icons=true&theme=vision-friendly-dark" alt="MarcielAbreu's stats"/>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcielAbreu&theme=vision-friendly-dark)](https://github.com/MarcielAbreu)
 
 # My Skills!!! <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="120">
 <div style="display: inline_block"><br>
