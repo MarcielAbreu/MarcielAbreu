@@ -16,5 +16,3 @@
 <a href="mailto:marciel.abreu97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://open.spotify.com/user/marciel%2Aalencar%2Ade%2Aabreu?si=2bf05a4d4c174479"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <br>
-
-[![Spotify](https://novatorem-9lrfq6kzq-marcielabreu.vercel.app/api/spotify)](https://open.spotify.com/user/marciel*alencar*de*abreu)
